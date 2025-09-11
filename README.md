@@ -5,9 +5,9 @@
 
 ![logo](./images/logo.png)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/llm-chaser/minimind-notes?style=social)](https://github.com/MLNLP-World/minimind-notes/stargazers)  
+[![GitHub Repo stars](https://img.shields.io/github/stars/mlnlp-world/minimind-notes?style=social)](https://github.com/MLNLP-World/minimind-notes/stargazers)  
 [![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/MLNLP-World/minimind-notes/pulls)  
-[![License](https://img.shields.io/github/license/MLNLP-World/minimind-notes)](LICENSE)
+[![License](https://img.shields.io/github/license/mlnlp-world/minimind-notes)](LICENSE)
 
 </div>
 
