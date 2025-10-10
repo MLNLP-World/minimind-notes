@@ -208,12 +208,6 @@ python eval_model.py --model_mode 1
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jingyaogong">
-        <img src="./images/contributors/jingyaogong.jpeg" width="80" height="80" alt="jingyaogong"/><br/>
-        <sub><b>jingyaogong</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/llm-chaser">
         <img src="./images/contributors/llm-chaser.jpg" width="80" height="80" alt="llm-chaser"/><br/>
         <sub><b>llm-chaser</b></sub>
