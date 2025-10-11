@@ -234,7 +234,7 @@ python eval_model.py --model_mode 1
         <td align="center">
       <a href="https://github.com/Yeeee-123">
         <img src="./images/contributors/Yeeee-123.png" width="80" height="80" alt="llm-chaser"/><br/>
-        <sub><b>ZIyi NIe</b></sub>
+        <sub><b>ZIyi Nie</b></sub>
       </a>
     </td>
         </td>
