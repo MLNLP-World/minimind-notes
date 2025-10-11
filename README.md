@@ -212,13 +212,6 @@ python eval_model.py --model_mode 1
         <img src="./images/contributors/llm-chaser.jpg" width="80" height="80" alt="llm-chaser"/><br/>
         <sub><b>llm-chaser</b></sub>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jiusheng58">
-        <img src="./images/contributors/jiusheng58.png" width="80" height="80" alt="jiusheng58"/><br/>
-        <sub><b>jiusheng58</b></sub>
-      </a>
-    </td>
     <td align="center">
       <a href="https://github.com/lul0308">
         <img src="./images/contributors/lul0308.png" width="80" height="80" alt="jiusheng58"/><br/>
@@ -229,6 +222,26 @@ python eval_model.py --model_mode 1
       <a href="https://github.com/qinzheng-li">
         <img src="./images/contributors/qinzheng-li.png" width="80" height="80" alt="jiusheng58"/><br/>
         <sub><b>qinzheng-li</b></sub>
+      </a>
+    </td>
+        </td>
+        <td align="center">
+      <a href="https://github.com/cuteweather">
+        <img src="./images/contributors/cuteweather.png" width="80" height="80" alt="llm-chaser"/><br/>
+        <sub><b>Penghe Zhao</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/Yeeee-123">
+        <img src="./images/contributors/Yeeee-123.png" width="80" height="80" alt="llm-chaser"/><br/>
+        <sub><b>ZIyi NIe</b></sub>
+      </a>
+    </td>
+        </td>
+        <td align="center">
+      <a href="https://github.com/H17839383736">
+        <img src="./images/contributors/H17839383736.png" width="80" height="80" alt="llm-chaser"/><br/>
+        <sub><b>Houpu</b></sub>
       </a>
     </td>
   </tr>
